@@ -1,0 +1,22 @@
+{
+  "name": "pytron",
+  "version": "1.0.0",
+  "description": "Pytron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Streand/pyTron.git"
+  },
+  "author": "Eirik Strand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Streand/pyTron/issues"
+  },
+  "homepage": "https://github.com/Streand/pyTron#readme",
+  "dependencies": {
+    "electron": "^6.0.2"
+  }
+}
