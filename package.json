@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Streand/pyTron#readme",
   "dependencies": {
-    "electron": "^6.0.2"
+    "electron": "^11.5.0"
   }
 }
